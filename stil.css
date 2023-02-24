@@ -1,0 +1,109 @@
+body{
+    background-image: url("res/y-so-serious-white.png");
+}
+
+#container{
+    width: 900px;
+    height: 850px;
+    margin: auto;
+}       
+header{
+    width: 900px;
+    height: 200px;
+    background-image: url("res/ibo\ ayak.jpg");
+}
+nav{
+    width: 900px;
+    height: 50px;
+    background-color: rgb(216, 138, 21);
+    float: left;
+}
+section{
+    width: 900px;
+    height: 550px;
+    background-color: #d6933c;
+    float: left;
+}
+#sol{
+    background-image: url("res/Untitled-2.jpg");
+    width: 200px;
+    height: 550px;
+    float: left;
+}
+aside{
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    width: 500px;
+    height: 550px;
+    background-color: #e79f56;
+    float: left;
+}
+#sagust{
+    margin-top: 15px;
+    background-color: #e79f56;
+    margin-left: 20px;
+    width: 160px;
+    height: 160px;
+    float: left;
+}
+#sagorta{
+    margin-top: 15px;
+    background-color: #e79f56;
+    margin-left: 20px;
+    width: 160px;
+    height: 160px;
+    float: left;
+}
+#sagalt{
+    margin-top: 15px;
+    background-color:#e79f56;
+    margin-left: 20px;
+    width: 160px;
+    height: 160px;
+    float: left;
+}
+
+nav{width: 900px;
+height: auto;
+}
+
+nav ul {
+    list-style-type: none;
+
+    margin: 0px;
+
+    padding: 0px;
+}
+
+nav ul li {width: 225px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav ul li a {
+    display: block;
+
+    padding:14px 18px;
+
+    background-color: #ff8307;
+
+    color:white;
+
+    text-decoration:none; 
+}
+
+nav ul li a:hover{
+    background-color:#e79f56;
+}
+
+footer{
+    width: 900px;
+    height: 50px;
+background-color: black;
+margin: auto;
+text-align: center;
+}
